@@ -23,7 +23,9 @@ A=np.array ([[6,2,3],[3,1,1],[10,3,4]])
 sol=np.linalg.inv(A)
 print(sol)
 ## Output:
-![output]
+![output](https://github.com/jithendra2004/INVERSE-OF-A-MATRIX/blob/main/IOM.png?raw=true)
+
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
